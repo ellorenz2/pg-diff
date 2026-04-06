@@ -18,4 +18,18 @@ Original project from:
    * "UPDATE": add after insert "ON CONFLICT ({list of key filed setted in config}) DO UPDATE SET {field} = EXCLUDED.{field},..." 
 
 
+### Example:
+```json
 
+				"tables": [
+					{
+						"tableName": "test_generic",
+						"tableSchema": "public",
+						"tableKeyFields": [
+							"id"
+						],
+						"conflictManagmentPolicy":""
+					}
+				]
+			}
+```
