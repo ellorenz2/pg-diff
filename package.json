@@ -48,6 +48,6 @@
 		"chalk": "4.1.2",
 		"clui": "0.3.6",
 		"figlet": "1.8.0",
-		"pg-diff-api": "../pg-diff-api"
+		"pg-diff-api": "git+https://github.com/ellorenz2/pg-diff-api"
 	}
 }
