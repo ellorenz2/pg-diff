@@ -153,6 +153,8 @@ class CLI {
 							tableName: "my_table_example",
 							tableSchema: "public",
 							tableKeyFields: ["id"],
+							conflictManagmentPolicy: "",
+
 						},
 					],
 				},
