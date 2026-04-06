@@ -21,15 +21,14 @@ Original project from:
 ### Example:
 ```json
 
-				"tables": [
-					{
-						"tableName": "test_generic",
-						"tableSchema": "public",
-						"tableKeyFields": [
-							"id"
-						],
-						"conflictManagmentPolicy":""
-					}
-				]
-			}
+	"tables": [					
+        {
+			"tableName": "test_generic",
+			"tableSchema": "public",
+			"tableKeyFields": [
+				"id"
+			],
+			"conflictManagmentPolicy":""
+		}
+	]
 ```
