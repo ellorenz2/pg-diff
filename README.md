@@ -1,7 +1,7 @@
 # pg-diff
 PostgreSQL schema and data comparing tool
 
-Original project from:
+Original project from pg-diff of michealsogis:
 [Documentation is here](https://michaelsogos.github.io/pg-diff/)
 
 
