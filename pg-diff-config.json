@@ -41,7 +41,8 @@
 						"tableSchema": "public",
 						"tableKeyFields": [
 							"id"
-						]
+						],
+						"conflictManagmentPolicy":""
 					}
 				]
 			}
